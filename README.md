@@ -41,5 +41,13 @@ Explain any configuration options or environment variables that the user might n
 # Deployment
 Provide instructions on how to deploy the project to a live server.
 
+## ScreenShots of Currency Converter
+
+
+<img src="screen-shots/QR-CODE GENERATOR INTERFACE.jpeg" alt="QR-CODE GENERATOR INTERFACE" width="400">
+
+<img src="screen-shots/QR-CODE .jpeg" alt="QR-CODE GENERATION" width="400">
+
+
 
 
