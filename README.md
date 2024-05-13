@@ -7,18 +7,26 @@
 -HTML 
 <br>
 -CSS
+<br>
 -JAVA SCRIPT
+<br>
 
 # Getting Started:
 
 1.Clone the repository:
 git clone https://github.com/your-username/qr-code-generator.git
+<br>
 2.Open the 'index.html' in your web browser or deploy it on a webserver.
+<br>
 # Usage
 1.Enter the URL you want to encode into the QR code in the input field.
-2.Adjust the size and color from the js code if needed
+<br>
+2.Adjust the size and color from the js code if needed.
+<br>
 3.Click on the "GENERATE QR-CODE" button to generate Qr.
+<br>
 4."Clear" button will appear after the QR to the clear to QR to generate another QR.
+<br>
 
 # Contributing
 Contributions are welcome! Please fork the repository and create a pull request.And give any kind of suggestion which is to be done on the code.
